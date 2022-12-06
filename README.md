@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @EdwoTech15
-- 👀 I’m interested in IT, programming and more in game development.
+
